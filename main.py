@@ -14,4 +14,6 @@ with col2:
     and now Python Programmer."""
     st.info(content)
 
-st.write("Below you can find some of the apps I have built in Pytho. Feel free to contact me!")
+
+content2 = "Below you can find some of the apps I have built in Pytho. Feel free to contact me!"
+st.write(content2)
